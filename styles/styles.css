@@ -28,6 +28,7 @@ nav {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    text-decoration: none;
 }
 
 nav a {
@@ -37,6 +38,10 @@ nav a {
     font-size: 1.3rem;
     font-weight:700;
     color: #fff; 
+}
+
+ul a {
+    text-decoration: none;
 }
 
 aside{
