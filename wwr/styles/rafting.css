@@ -1,8 +1,8 @@
 
 :root {
-    --primary-color:hsl(191, 69%, 50%);   
-    --secondary-color:hwb(197 62% 31%) ; 
-    --accent1-color: #14c2d6;   
+    --primary-color:#7c1414;   
+    --secondary-color:#7c7979; 
+    --accent1-color: maroon;   
     --accent2-color:hsla(41, 100%, 62%, 0.048);   
     --heading-font: "Algerian", "Georgia", serif;
     --body-font: Arial, Helvetica, sans-serif;
@@ -28,7 +28,7 @@ header, main, footer {
     width: 840px;
     max-width: 100%;
     margin: 0 auto;
-}
+    
 
 h1, h2 {
     font-family: var(--heading-font);
