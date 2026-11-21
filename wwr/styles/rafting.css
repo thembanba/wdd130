@@ -195,6 +195,7 @@ nav a {
 
 .adventure figure{
     display: flex;
+    justify-content: space-evenly;
     flex-direction: column;
     align-items: center;
     margin: 0;
